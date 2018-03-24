@@ -1,0 +1,7 @@
+C:\Users\zms\Desktop\Lecture 2\Lecture 2\bin\Debug\Lecture 2.exe.config
+C:\Users\zms\Desktop\Lecture 2\Lecture 2\bin\Debug\Lecture 2.exe
+C:\Users\zms\Desktop\Lecture 2\Lecture 2\bin\Debug\Lecture 2.pdb
+C:\Users\zms\Desktop\Lecture 2\Lecture 2\obj\Debug\Lecture 2.csprojResolveAssemblyReference.cache
+C:\Users\zms\Desktop\Lecture 2\Lecture 2\obj\Debug\Lecture 2.csproj.CoreCompileInputs.cache
+C:\Users\zms\Desktop\Lecture 2\Lecture 2\obj\Debug\Lecture 2.exe
+C:\Users\zms\Desktop\Lecture 2\Lecture 2\obj\Debug\Lecture 2.pdb
